@@ -59,7 +59,7 @@ Cryptocurrency is the **future of digital finance**, offering **decentralized co
 
 ### **📬 Contact & Contributions**
 🤝 Contributions are welcome! Feel free to fork, open issues, or submit pull requests.  
-For inquiries, reach out via **[LinkedIn](https://linkedin.com/in/yourprofile)** or **Email: your-email@example.com**.  
+
 
 ---
 
